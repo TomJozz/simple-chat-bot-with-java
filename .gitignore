@@ -16,10 +16,10 @@ out/
 # Hyperskill course metadata
 course-info.yaml
 course-remote-info.yaml
-My First Project with Java/**/task-info.yaml
-My First Project with Java/**/task-remote-info.yaml
-My First Project with Java/**/lesson-info.yaml
-My First Project with Java/**/task.html
+**/task-info.yaml
+**/task-remote-info.yaml
+**/lesson-info.yaml
+**/task.html
 
 # Windows scripts
 gradlew.bat
