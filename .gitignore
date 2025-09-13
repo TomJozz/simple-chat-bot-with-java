@@ -14,8 +14,8 @@ out/
 *.class
 
 # Hyperskill course metadata
-course-info.yaml
-course-remote-info.yaml
+#course-info.yaml
+#course-remote-info.yaml
 **/task-info.yaml
 **/task-remote-info.yaml
 **/lesson-info.yaml
