@@ -16,3 +16,6 @@ out/
 # Hyperskill course metadata
 #course-info.yaml
 #course-remote-info.yaml
+
+#Remove Repeated Topics
+Topics/
