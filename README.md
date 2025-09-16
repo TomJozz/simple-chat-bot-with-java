@@ -5,4 +5,5 @@ Digital personal assistants help people drive cars, plan their day, and buy some
 In this project, you will develop, step by step, a simple bot that will help you study programming.
 
 [Course-info](course-info.yaml)
+
 [Course-remote-info](course-remote-info.yaml)
